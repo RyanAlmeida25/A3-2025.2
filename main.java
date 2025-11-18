@@ -5,7 +5,7 @@ public class main {
         Scanner scanner = new Scanner(System.in);
         
         while (true) {
-
+            
             System.out.print("Qual conversão deseja realizar? ");
             
             System.out.println("\n1 - Decimal para binario");
@@ -63,3 +63,5 @@ public class main {
         }
     }
 }
+
+// comentario teste bug fix
